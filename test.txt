@@ -1,2 +1,6 @@
 console.log("KKK")
 const kkk = 444
+
+if (true) {
+	console.log("sdsdsds")	
+}
