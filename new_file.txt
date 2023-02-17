@@ -1,1 +1,2 @@
 const aaa = 7
+console.log(aaa)
